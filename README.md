@@ -2,12 +2,12 @@
 
 An independent reimplementation of [PrimeKG](https://github.com/mims-harvard/PrimeKG) - the **Precision Medicine Knowledge Graph** originally built by Payal Chandak, Kexin Huang, and Marinka Zitnik at the Zitnik Lab (Machine Learning for Medicine and Science), Harvard Medical School.
 
-> 🔗 **Original repository:** https://github.com/mims-harvard/PrimeKG
-> 📄 **Original paper:** [Building a knowledge graph to enable precision medicine](https://www.nature.com/articles/s41597-023-01960-3) - *Nature Scientific Data*, 2023
+>  **Original repository:** https://github.com/mims-harvard/PrimeKG
+>  **Original paper:** [Building a knowledge graph to enable precision medicine](https://www.nature.com/articles/s41597-023-01960-3) - *Nature Scientific Data*, 2023
 
 ---
 
-**This repository is not affiliated with or endorsed by the original PrimeKG authors.** All credit for the original design, methodology, and dataset goes to the mims-harvard team.
+**This repository is not affiliated with or endorsed by the original PrimeKG authors.** All credit for the original design, methodology, and dataset goes to the Harvard team.
 
 ---
 
