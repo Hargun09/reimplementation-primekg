@@ -20,4 +20,4 @@ An independent reimplementation of [PrimeKG](https://github.com/mims-harvard/Pri
 
 ## Output
 
-- out_prime.csv - the final merged knowledge graph, joining disease, MONDO ontology, and protein/gene tables into unified x_type-relation-y_type triples (e.g. disease_protein -> associated with), produced by running PRIMEKG_biokg.ipynb
+- out_prime.csv - the final merged knowledge graph, joining disease, MONDO ontology, and protein/gene tables
